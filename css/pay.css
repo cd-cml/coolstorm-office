@@ -1,0 +1,34 @@
+.myPayBox{
+    padding: 10rem 0;
+}
+.cool-pay-img{
+    width: 30rem;
+    margin: auto;
+    display: block;
+}
+.cool-pay-z {
+    width: 33rem;
+}
+.pay-p{
+    margin-bottom: 2rem;
+    font-weight: bold;
+    padding-left: 1rem;
+}
+.cool-footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+@media(max-width:768px) {
+    .cool-pay-z {
+        width: 23rem;
+    }
+    .cool-pay-w {
+        width: 23rem;
+    }
+    .my_table_box{
+        left: 0;
+    }
+}

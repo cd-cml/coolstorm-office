@@ -1,0 +1,98 @@
+.logo-img {
+    width: 10rem
+}
+
+.brand-tips {
+    margin-bottom: 4rem;
+}
+
+#about {
+    display: table;
+    background-color: gray;
+    width: 100%;
+    height: auto;
+    padding: 100px 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.down_A {
+    color: rgb(83, 83, 83);
+    text-decoration: underline;
+}
+
+.down_A:hover {
+    color: rgb(83, 83, 83);
+    text-decoration: underline;
+}
+
+.about-img {
+    text-align: left;
+    padding: 0;
+}
+
+.getInHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.naviImg {
+    display: block;
+    width: 19rem;
+    margin: auto;
+}
+
+.text-center>hr {
+    height: 4px;
+    width: 60px;
+    text-align: center;
+    position: relative;
+    background: #F4D03F;
+    margin: 0 auto;
+    border: 0;
+}
+
+.my_blank {
+    color: #F4D03F;
+}
+
+.my_blank_odd {
+    color: #ffffff;
+    background-color: #F4D03F;
+}
+
+.my_blank:hover {
+    text-decoration: underline;
+}
+
+.my_blank_odd:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.my_table {
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+.text-skroke {
+    text-shadow: #000 1px 0 0, #000 0 1px 0, #000 -1px 0 0, #000 0 -1px 0;
+}
+
+
+.my_table_padding {
+    padding: 7rem 0 !important;
+}
+.bg-myblack{
+    background-color: rgb(73, 73, 73);
+    color: #ffffff;
+}
+.my_table td{
+    border: 2px solid #565656 !important;
+}
+/* .cool_temp{
+    position: relative;
+    top: 37px;
+} */
